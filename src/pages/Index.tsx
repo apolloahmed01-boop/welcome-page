@@ -1,9 +1,9 @@
 const Index = () => {
   return (
-    <div className="min-h-screen w-full">
+    <div className="w-full h-screen">
       <iframe 
         src="/portfolio/startPage.html" 
-        className="w-full h-screen border-0"
+        className="w-full h-full border-0"
         title="Portfolio"
       />
     </div>
